@@ -1,0 +1,16 @@
+body {
+  background-color: #111;
+  color: #12e832;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.typewriter h1 {
+  border-right: 2px solid #12e832;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 2em;
+}
